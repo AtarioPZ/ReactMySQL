@@ -14,7 +14,7 @@ function App() {
   }, [])
   return (
     <div>
-      <div>
+      {/* <div>
         <center>
           <h1>INPUT</h1>
           <label>First Name </label>
@@ -22,8 +22,8 @@ function App() {
           <label>Last Name </label>
           <input type={"text"} /> <br />
           <input type={"button"} value="SUBMIT" />
-      </center>
-    </div>
+        </center>
+      </div> */}
     <div className='container'>      
     <table >
       <thead>
