@@ -14,9 +14,7 @@ Required
 <br><br>
 How to start
 <hr>
-<ul>
-<li>Open XAMPP Controller and start Apache and MySQL server</li>
-<li>Head over to Back directory and run `node server.js`</li>
-<li>Head over to Front directory and run `npm run dev`</li>
-</ul>
 
+* Open XAMPP Controller and start Apache and MySQL server
+* Head over to `Back` directory and run `node server.js`.
+* Head over to `Front` directory and run `npm run dev`.
